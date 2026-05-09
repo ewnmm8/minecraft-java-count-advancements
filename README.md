@@ -9,5 +9,5 @@ Open the file on own text editor, edit "filepath".
 EX.on Desktop
 
 ## 4.Double click
-![](<img width="1044" height="674" alt="screenshot" src="https://github.com/user-attachments/assets/6a41d8f7-a2ab-430a-ade6-831659875230" />
-)
+Press Enter to close.
+![screenshot](https://github.com/user-attachments/assets/6a41d8f7-a2ab-430a-ade6-831659875230)
