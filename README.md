@@ -1,9 +1,13 @@
 # minecraft-java-count-advancements
+## 0.Install Python
+[Download Python](https://www.python.org/downloads)
+
 ## 1.Download
 Move to "counting_advancements.py" and click "Download raw file".
 
 ## 2.Edit file
 Open the file on own text editor, edit "filepath".
+.minecraft/saves/WORLD/advancements/********.json
 
 ## 3.Place file somewhere
 EX.on Desktop
