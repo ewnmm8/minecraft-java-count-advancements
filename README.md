@@ -6,8 +6,8 @@
 Move to "counting_advancements.py" and click "Download raw file".
 
 ## 2.Edit file
-Open the file on own text editor, edit "filepath".
-.minecraft/saves/WORLD/advancements/********.json
+Open the file on own text editor, edit "filepath".  
+"/.../.minecraft/saves/WORLD/advancements/*.json"
 
 ## 3.Place file somewhere
 EX.on Desktop
